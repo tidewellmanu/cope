@@ -1,4 +1,4 @@
-Aquafill Property Management Aquafill Property Management — MULTI-PAGE WEBSITE
+Cope Property Management ConsultCope Property Management Consult— MULTI-PAGE WEBSITE
 ====================================================
 
 Pages
@@ -15,10 +15,10 @@ Shared files
 - assets/images/ — local image asset folder
 
 Property imagery
-The property category galleries currently use illustrative stock photography from Unsplash via image URLs. Downloading those image binaries was blocked by network/DNS restrictions in the build environment. The assets/images folder includes instructions; replace the image URLs in properties.html and CSS with locally stored, licensed project images before publishing. No sample category is presented as a confirmed Aquafill Property Management listing.
+The property category galleries currently use illustrative stock photography from Unsplash via image URLs. Downloading those image binaries was blocked by network/DNS restrictions in the build environment. The assets/images folder includes instructions; replace the image URLs in properties.html and CSS with locally stored, licensed project images before publishing. No sample category is presented as a confirmed Cope Property Management Consultlisting.
 
 Contact form
-The demo form opens a prefilled email draft to hello@Aquafill Property Managementproperty.com. Confirm this is the correct company email and connect a backend/form provider for direct submissions.
+The demo form opens a prefilled email draft to hello@Cope Property Managementproperty.com. Confirm this is the correct company email and connect a backend/form provider for direct submissions.
 
 Preview
 Open index.html, or run a local static server from this folder.
